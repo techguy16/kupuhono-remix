@@ -15139,7 +15139,7 @@
                                                             [7, [0, 0]]
                                                         ]],
                                                         [68, 47, null, 647137024831616, false, [
-                                                            [7, [2, "sorry no time bonus :-("]]
+                                                            [7, [2, "Sorry, no time bonus."]]
                                                         ]]
                                                     ]
                                                 ],
