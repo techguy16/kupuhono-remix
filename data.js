@@ -10194,7 +10194,7 @@
                             [
                                 [444, 108, 0, 357, 65, 0, 0, 1, 0, 0, 0, 0, []], 107, 673, [],
                                 [],
-                                ["basic demo of 10 levels", 0, "12pt Segoe UI Light", "rgb(255,255,255)", 1, 0, 0, 0, 0]
+                                ["KupuHono Remix", 0, "20pt Arial Bold", "rgb(255,255,255)", 1, 0, 0, 0, 0]
                             ],
                             [
                                 [49, 237, 0, 579, 285, 0, 0, 1, 0, 0, 0, 0, []], 140, 690, [],
@@ -10204,7 +10204,7 @@
                             [
                                 [853, 482, 0, 357, 65, 0, 0, 1, 0, 0, 0, 0, []], 107, 675, [],
                                 [],
-                                ["(bonus levels not added yet)", 0, "11pt Segoe UI Light", "rgb(255,255,255)", 1, 0, 0, 0, 0]
+                                ["Bonus levels not included yet", 0, "11pt Arial Light", "rgb(255,255,255)", 1, 0, 0, 0, 0]
                             ]
                         ],
                         []
@@ -14463,7 +14463,7 @@
                                 ]],
                                 [68, 47, null, 639371883851154, false, [
                                     [7, [10, [10, [10, [10, [23, "timer"],
-                                                    [2, " seconds left; time bonus = "]
+                                                    [2, " seconds left. Time bonus "]
                                                 ],
                                                 [6, [0, 5],
                                                     [23, "timer"]
@@ -14471,7 +14471,7 @@
                                             ],
                                             [19, 88]
                                         ],
-                                        [2, "touch screen or press any key to continue"]
+                                        [2, "Touch screen or press any key to continue"]
                                     ]]
                                 ]],
                                 [68, 102, null, 481019192321079, false, [
@@ -14500,7 +14500,7 @@
                                     [7, [0, 0]]
                                 ]],
                                 [68, 47, null, 359295530507866, false, [
-                                    [7, [2, "sorry no time bonus :-("]]
+                                    [7, [2, "Sorry, no time bonus."]]
                                 ]]
                             ]
                         ]
